@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import hfdv from "../imagesAll/lop33.jpg";
 import hfdv21 from "../imagesAll/mob acca.jpg";
 import hfdv22 from "../imagesAll/mob acca11.jpg";
@@ -11,7 +11,7 @@ import hfdv241 from "../imagesAll/lop18.jpg";
 import hfdv2421 from "../imagesAll/lop111.jpg";
 
 export default function FirstContainer() {
-  const navigateTo = useNavigate();
+  // const navigateTo = useNavigate();
   return (
     <div className="container my-4">
       <div className="row">
@@ -22,14 +22,14 @@ export default function FirstContainer() {
             <div className="row">
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv} alt="Motorola Moto G" className="img-fluid" />
                 <p className="text-muted">Motorola Moto G Pure</p>
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv23} alt="NUU A23" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
@@ -40,7 +40,7 @@ export default function FirstContainer() {
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv26} className="img-fluid" />
                 <p className="text-muted">Samsung Galaxy Note</p>
@@ -58,28 +58,28 @@ export default function FirstContainer() {
             <div className="row">
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv21} alt="Smartphone" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv22} alt="Headphones" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv23} alt="Tablet" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv24} alt="Smart device" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
@@ -97,14 +97,14 @@ export default function FirstContainer() {
             <div className="row">
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv24} alt="Essentials" className="img-fluid" />
                 <p className="text-muted">Save 15% on essentials</p>
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img
                   src={hfdv241}
@@ -115,7 +115,7 @@ export default function FirstContainer() {
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv2421} alt="Food delivery" className="img-fluid" />
                 <p className="text-muted">
@@ -124,7 +124,7 @@ export default function FirstContainer() {
               </div>
               <div
                 className="col-6 mb-3"
-                onClick={() => navigateTo("/MobaileDetails")}
+                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv24} alt="Fast shipping" className="img-fluid" />
                 <p className="text-muted">Fast shipping</p>
