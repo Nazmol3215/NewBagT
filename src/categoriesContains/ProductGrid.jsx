@@ -4,7 +4,6 @@ import fbdxbfdw from '../imagesAll/liop1.jpg';
 import fbdxbfd3 from '../imagesAll/acco.jpg';
 import fbdxbfd from '../imagesAll/mob acca9.jpg';
 import { useState } from "react";
-import { useNavigate } from "react-router-dom";
 
 
 
@@ -60,10 +59,9 @@ const ProductCard = ({ product }) => {
   const handleImageClick = (imagePath) => {
     setMainImage(imagePath);
   };
-  const navigateTo = useNavigate();
 
   return (
-    <div className="col-md-6 mb-4"   onClick={() => navigateTo("/OrderComponent")}>
+    <div className="col-md-6 mb-4"   >
       <div className="card border-0 shadow-sm h-100">
         <div className="card-body">
           <h5 className="card-title">{product.title}</h5>
