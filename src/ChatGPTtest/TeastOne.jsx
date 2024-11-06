@@ -41,7 +41,6 @@ const OrderComponent = () => {
                         <p className="price fs-5">৳ <span>{subtotal}</span></p>
                     </div>
                 </div>
-
                 {/* Billing Details */}
                 <div className="col-md-4 mb-4">
                     <div className="billing-details p-3 border rounded">
