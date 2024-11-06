@@ -13,7 +13,6 @@ export default function All() {
       
 
       <BrowserRouter>
-      <LAstOption/>
         {/* <ProductGrid/> */}
         <Routes>
           <Route path="/" element={<LAstOption />} />
