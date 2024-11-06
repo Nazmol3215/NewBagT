@@ -11,7 +11,7 @@ import hfdv241 from "../imagesAll/lop18.jpg";
 import hfdv2421 from "../imagesAll/lop111.jpg";
 
 export default function TswtOne() {
-  // const navigateTo = useNavigate();
+  const navigateTo = useNavigate();
   return (
     <div className="container my-4">
       <div className="row">
@@ -21,7 +21,6 @@ export default function TswtOne() {
             <div className="row">
               <div
                 className="col-6 mb-3"
-                // onClick={() => navigateTo("/MobaileDetails")}
               >
                 <img src={hfdv} alt="Motorola Moto G" className="img-fluid" />
                 <p className="text-muted">Motorola Moto G Pure</p>
