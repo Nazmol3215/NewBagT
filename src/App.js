@@ -1,22 +1,21 @@
 import './App.css';
 import React from 'react';
-import MobaileDetails from './MobailesDetail/MobaileDetails';
-
-
+import OffcanvasExample from '../src/HeadDatails/NavBar';
+import All from './AllMain/All';
 
 
 function App() {
   return (
     <div className="App">
      
-
-<MobaileDetails/>
-
+      <OffcanvasExample/>  
 
 
 
+<All/>
 
-        
+
+
     </div>
   );
 }

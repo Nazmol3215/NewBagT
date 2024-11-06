@@ -1,9 +1,9 @@
 import React from "react";
-// import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 
 const ProductCardFive = (props) => {
-//   const navigate = useNavigate();
+  const navigate = useNavigate();
 
   return (
     <div className="product-container">
@@ -30,12 +30,13 @@ const ProductCardFive = (props) => {
           <p className="more-buying-choices">
             More Buying Choices <span className="price">$281.15</span> (3 used & new offers)
           </p>
-          {/* <button
+          
+          <button
             className="order-btn"
             onClick={() => navigate("/ProductPage")}
           >
             Order Now
-          </button> */}
+          </button>
      
         </div>
       </div>
