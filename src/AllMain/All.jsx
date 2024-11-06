@@ -4,7 +4,7 @@ import MobaileDetails from '../MobailesDetail/MobaileDetails';
 
 import ProductPage from '../OrderDetailsPages/ProductPage ';
 import OrderComponent from '../ChatGPTtest/TeastOne';
-import HomeSection from '../CategoriesContains/FirstContainer';
+import FirstContainer from '../CategoriesContains/FirstContainer';
 
 
 
@@ -15,7 +15,7 @@ export default function All() {
       
 
       <BrowserRouter>
-        <HomeSection/>
+        <FirstContainer/>
         <Routes>
           <Route path="/MobaileDetails" element={<MobaileDetails />} />
           <Route path="/ProductPage" element={<ProductPage />} />

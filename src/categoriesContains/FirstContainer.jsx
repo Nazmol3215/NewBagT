@@ -10,7 +10,7 @@ import hfdv24 from "../imagesAll/liop1.jpg";
 import hfdv241 from "../imagesAll/lop18.jpg";
 import hfdv2421 from "../imagesAll/lop111.jpg";
 
-export default function HomeSection() {
+export default function FirstContainer() {
   const navigateTo = useNavigate();
   return (
     <div className="container my-4">
