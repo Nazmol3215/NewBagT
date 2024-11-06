@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ProductPage from '../OrderDetailsPages/ProductPage ';
 import OrderComponent from '../ChatGPTtest/TeastOne';
 import MobaileDetails from '../MobailesDetail/MobaileDetails';
-import LAstOption from '../LAstOption';
 // import ProductGrid from '../CategoriesContains/ProductGrid';
 import LAstOption from '../LAstOption';
 
