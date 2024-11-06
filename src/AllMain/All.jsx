@@ -5,7 +5,7 @@ import OrderComponent from '../ChatGPTtest/TeastOne';
 import MobaileDetails from '../MobailesDetail/MobaileDetails';
 import LAstOption from '../LAstOption';
 // import ProductGrid from '../CategoriesContains/ProductGrid';
-
+import LAstOption from '../LAstOption';
 
 export default function All() {
   return (
@@ -14,6 +14,7 @@ export default function All() {
       
 
       <BrowserRouter>
+      <LAstOption/>
         {/* <ProductGrid/> */}
         <Routes>
           <Route path="/LAstOption" element={<LAstOption />} />
