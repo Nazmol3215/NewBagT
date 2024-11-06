@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ProductPage from '../OrderDetailsPages/ProductPage ';
 import OrderComponent from '../ChatGPTtest/TeastOne';
 import MobaileDetails from '../MobailesDetail/MobaileDetails';
-import HomeSection from '../CategoriesContains/FirstOne';
 
 
 export default function All() {
@@ -13,7 +12,6 @@ export default function All() {
       
 
       <BrowserRouter>
-        <HomeSection/>
         <MobaileDetails/>
         <Routes>
           <Route path="/MobaileDetails" element={<MobaileDetails />} />

@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import OffcanvasExample from '../src/HeadDatails/NavBar';
 import All from './AllMain/All';
+import LAstOption from './LAstOption';
 
 
 function App() {
@@ -11,8 +12,8 @@ function App() {
       <OffcanvasExample/>  
 
 
+<LAstOption/>
 <All/>
-
 
 
     </div>
