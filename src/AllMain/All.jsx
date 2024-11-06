@@ -4,17 +4,18 @@ import MobaileDetails from '../MobailesDetail/MobaileDetails';
 
 import ProductPage from '../OrderDetailsPages/ProductPage ';
 import OrderComponent from '../ChatGPTtest/TeastOne';
+import HomeSection from '../CategoriesContains/FirstContainer';
 
 
 
 export default function All() {
   return (
-    
+
     <div>
       
 
       <BrowserRouter>
-        
+        <HomeSection/>
         <Routes>
           <Route path="/MobaileDetails" element={<MobaileDetails />} />
           <Route path="/ProductPage" element={<ProductPage />} />
