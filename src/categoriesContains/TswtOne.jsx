@@ -10,12 +10,11 @@ import hfdv24 from "../imagesAll/liop1.jpg";
 import hfdv241 from "../imagesAll/lop18.jpg";
 import hfdv2421 from "../imagesAll/lop111.jpg";
 
-export default function FirstContainer() {
+export default function TswtOne() {
   // const navigateTo = useNavigate();
   return (
     <div className="container my-4">
       <div className="row">
-        Section 1: Pick up where you left off
         <div className="col-12 col-md-4 mb-4">
           <div className="p-3 border bg-light">
             <h5>Pick up where you left off</h5>
