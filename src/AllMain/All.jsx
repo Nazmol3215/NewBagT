@@ -16,7 +16,7 @@ export default function All() {
       <LAstOption/>
         {/* <ProductGrid/> */}
         <Routes>
-          <Route path="/LAstOption" element={<LAstOption />} />
+          <Route path="/" element={<LAstOption />} />
           <Route path="/MobaileDetails" element={<MobaileDetails />} />
           <Route path="/ProductPage" element={<ProductPage />} />
           <Route path="/OrderComponent" element={<OrderComponent />} />
