@@ -23,8 +23,27 @@ const ProductPage = () => {
 
         {/* Right Section: Product Details */}
         <Col md={6}>
-          <h2>HP Notebook Laptop, 15.6" HD Touchscreen</h2>
-          <p>Intel Core i3-1115G4 Processor, 32GB RAM, 1TB PCIe SSD, Webcam, Type-C, HDMI, SD Card Reader, Wi-Fi, Windows 11 Home, Silver</p>
+          <h2>আপনার বসে থাকার সময়গুলো হোক আরও আরামদায়ক ও উপভোগ্য,,
+          রাজু স্টীল ফার্নিচার -২</h2>
+          <p>এ বাজারের সবচেয়ে সেরা' মূল্যে প্রিমিয়াম কোয়ালিটির দারুন সব চেয়ার পাওয়া যাচ্ছে । 
+            আমরা RS-21 V MASh চেয়ার টি 
+            তৈরী করেছি, স্টীল পায়া,গ্যাসলিফট, ম্যাকানিজম  প্লাস্টিকের চাকা/হাতা/ব্যাগপার্ট,, 
+            গর্জনের প্লাইবোর্ড,,
+            ছলিট ফোম, উন্নত মানের কাপড়ও বিভিন্ন উপাদান দিয়ে,,
+            যা অত্যন্ত টেকসই ও দেখতে খুবিই চমতকার,,
+            
+              🚛 ঢাকা সহ সারা বাংলাদেশেই এক টাকাও 
+              অগ্রিম পেমেন্ট ছাড়াই হোম ডেলিভারি
+              দেওয়া হয়, ইনশাআল্লাহ,,
+
+            </p>
+            <h3>অর্ডার করতে ইনবক্স করুন
+            অথবা কল করুন <br/>
+            📞01580697263, <br/>
+              01916631682
+            </h3>
+
+            <p> <h1>চেয়ারটি বৈশিষ্ট্যগুলো নিম্নরূপ:</h1></p>
 
           <div className="d-flex align-items-center mb-2">
             <span className="me-2">4.1</span>
@@ -34,8 +53,8 @@ const ProductPage = () => {
 
           {/* Price and Discount */}
           <div className="mb-3">
-            <h3 className="text-danger">$415.00 <small className="text-muted text-decoration-line-through">$438.70</small></h3>
-            <p className="text-muted">+ $656.71 Shipping & Import Fees Deposit to Bangladesh</p>
+            <h3 className="text-danger">$4990.00 <small className="text-muted text-decoration-line-through">$5138.70</small></h3>
+            <p className="text-muted">+ $5356.71 Shipping & Import Fees Deposit to Bangladesh</p>
           </div>
 
           {/* Capacity Options */}
@@ -64,9 +83,9 @@ const ProductPage = () => {
 
           {/* Additional Product Info */}
           <div className="text-muted">
-            <p><strong>Brand:</strong> HP</p>
-            <p><strong>Model Name:</strong> TPN-Q222</p>
-            <p><strong>Screen Size:</strong> 15.6 Inches</p>
+            <p><strong>ID:</strong> 85.04</p>
+            <p><strong>Brand Name:</strong> Raju steel furniture</p>
+            <p><strong>chare Size:</strong> 03.6 FT</p>
             <p><strong>Operating System:</strong> Windows 11 Home</p>
           </div>
         </Col>

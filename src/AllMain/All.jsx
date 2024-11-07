@@ -4,6 +4,7 @@ import ProductPage from '../OrderDetailsPages/ProductPage ';
 import OrderComponent from '../ChatGPTtest/TeastOne';
 import MobaileDetails from '../MobailesDetail/MobaileDetails';
 import M from '../Main/M';
+import OffcanvasExample from '../HeadDatails/NavBar';
 
 export default function All() {
   return (
@@ -12,8 +13,9 @@ export default function All() {
       
 
       <BrowserRouter>
-
+      <OffcanvasExample/>
         <Routes>
+
           <Route path="/" element={<M/>} />
           <Route path="/MobaileDetails" element={<MobaileDetails />} />
           <Route path="/ProductPage" element={<ProductPage />} />

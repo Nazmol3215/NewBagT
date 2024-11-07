@@ -1,11 +1,11 @@
 import React from "react";
 import ProductCardFive from "./ProductCardTwo";
-import fhgcfthg from "../imagesAll/lop14.jpg";
-import dhdffrhd1231 from "../imagesAll/m acca3.jpg";
-import dhdffrhd123 from "../imagesAll/lop4.jpg";
-import dhdffrhd1122 from "../imagesAll/mob acca8.jpg";
-import dhdffrhd1 from "../imagesAll/mob acca8.jpg";
-import dhdffrhd from "../imagesAll/mobail123.jpg";
+import fhgcfthg from "../imagesAll/c.jpg";
+import dhdffrhd1231 from "../imagesAll/c1.jpg";
+import dhdffrhd123 from "../imagesAll/c2.jpg";
+import dhdffrhd1122 from "../imagesAll/c3.jpg";
+import dhdffrhd1 from "../imagesAll/c6.jpg";
+import dhdffrhd from "../imagesAll/c9.jpg";
 
 
 
@@ -63,14 +63,7 @@ export default function MobaileDetails() {
             img={dhdffrhd}
           />
         </div>
-        <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <ProductCardFive
-            titleText="NUU A23Plus Basic Cell Phone for AT&T, T-Mobile, Cricket, Mint Mobile, Metro, 64G/3GB 6.3 4G LTE"
-            Taka="$626.84"
-            Review="1.9K+ bought in past month"
-            img={fhgcfthg}
-          />
-        </div>
+      
       </div>
     </div>
   );

@@ -1,11 +1,27 @@
 import React from 'react';
-import ftjgt from '../src/imagesAll/mobail51.jpg';
+import ftjgt from '../src/imagesAll/c16.jpg';
+import ftjgt1 from '../src/imagesAll/c17.jpg';
+import ftjgt12 from '../src/imagesAll/c3.jpg';
+import ftjgt121 from '../src/imagesAll/c19.jpg';
+import ftj from '../src/imagesAll/c6.jpg';
+import ft from '../src/imagesAll/c9.jpg';
+import ftjg21 from '../src/imagesAll/c11.jpg';
+import tjg21 from '../src/imagesAll/c12.jpg';
+import jg21 from '../src/imagesAll/c3.jpg';
+import fg21 from '../src/imagesAll/c1.jpg';
+import ftj2 from '../src/imagesAll/c.jpg';
 import { useNavigate } from 'react-router-dom';
 
 export default function LAstOption() {
   const navigateTo = useNavigate();
   return (
     <div className="container my-4">
+    <marquee> <h3> আমাদের সাশ্রয়ী মূল্যের এক্সিকিউটিভ অফিস চেয়ার দিয়ে 
+      আপনার কর্মক্ষেত্রকে আপগ্রেড করুন। আমাদের চেয়ারগুলি স্টাইল এ
+      বং কার্যকারিতা নিখুঁতভাবে একত্রিত করে, সবই সাশ্রয়ী মূল্যে।
+    রাজু স্টিল ফার্নিচার -২
+    " সততা ই আমাদের প্রধাণ বৈশিষ্ট্য " </h3></marquee>
+
       <div className="row">
         
         {/* Section 1: Pick up where you left off */}
@@ -18,15 +34,15 @@ export default function LAstOption() {
                 <p className="text-muted">Motorola Moto G Pure</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src=  {ftjgt}  alt="NUU A23" className="img-fluid" />
+                <img src=  {ftjgt1}  alt="NUU A23" className="img-fluid" />
                 <p className="text-muted">NUU A23Plus Basic</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src=  {ftjgt}  alt="Apple iPhone XR" className="img-fluid" />
+                <img src=  {ftjgt12}  alt="Apple iPhone XR" className="img-fluid" />
                 <p className="text-muted">Apple iPhone XR</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src= {ftjgt} alt="Samsung Galaxy Note" className="img-fluid" />
+                <img src= {ftjgt121} alt="Samsung Galaxy Note" className="img-fluid" />
                 <p className="text-muted">Samsung Galaxy Note</p>
               </div>
             </div>
@@ -40,13 +56,13 @@ export default function LAstOption() {
             <h5>Continue shopping deals</h5>
             <div className="row">
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src=  {ftjgt}  alt="Smartphone" className="img-fluid" />
+                <img src=  {ftj}  alt="Smartphone" className="img-fluid" />
               </div>
               <div className="col-6 mb-3">
-                <img src= {ftjgt} alt="Headphones" className="img-fluid" />
+                <img src= {ft} alt="Headphones" className="img-fluid" />
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src=  {ftjgt} alt="Tablet" className="img-fluid" />
+                <img src=  {ftjg21} alt="Tablet" className="img-fluid" />
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
                 <img src=  {ftjgt} alt="Smart device" className="img-fluid" />
@@ -62,19 +78,19 @@ export default function LAstOption() {
             <h5>Enjoy all the Prime benefits</h5>
             <div className="row">
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src= {ftjgt} alt="Essentials" className="img-fluid" />
+                <img src= {jg21} alt="Essentials" className="img-fluid" />
                 <p className="text-muted">Save 15% on essentials</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src=  {ftjgt} alt="Movies and shows" className="img-fluid" />
+                <img src=  {fg21} alt="Movies and shows" className="img-fluid" />
                 <p className="text-muted">Popular movies and shows</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src= {ftjgt} alt="Food delivery" className="img-fluid" />
+                <img src= {ftj2} alt="Food delivery" className="img-fluid" />
                 <p className="text-muted">$0 Grubhub delivery fees</p>
               </div>
               <div className="col-6 mb-3" onClick={() => navigateTo("/MobaileDetails")}>
-                <img src= {ftjgt} alt="Fast shipping" className="img-fluid" />
+                <img src= {tjg21} alt="Fast shipping" className="img-fluid" />
                 <p className="text-muted">Fast shipping</p>
               </div>
             </div>

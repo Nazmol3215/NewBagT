@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import hoda from '../src/imagesAll/lop9.jpg';
-import rdsgfx1 from '../src/imagesAll/lop22.jpg';
-import rdsgfx2 from '../src/imagesAll/mob acca.jpg';
-import rdsgfx3 from '../src/imagesAll/mob acca8.jpg';
-import rdsgfx4 from '../src/imagesAll/mob aca5.jpg';
-import rdsgfx5 from '../src/imagesAll/mobail51.jpg';
+import hoda from '../src/imagesAll/c.jpg';
+import rdsgfx1 from '../src/imagesAll/c9.jpg';
+import rdsgfx2 from '../src/imagesAll/c15.jpg';
+import rdsgfx3 from '../src/imagesAll/c19.jpg';
+import rdsgfx4 from '../src/imagesAll/c13.jpg';
+import rdsgfx5 from '../src/imagesAll/c6.jpg';
 
 
 

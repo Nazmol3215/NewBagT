@@ -1,8 +1,7 @@
 import './App.css';
 import React from 'react';
-import OffcanvasExample from '../src/HeadDatails/NavBar';
-import All from './AllMain/All';
 import ScrollToTopButton from './ScrollToTop';
+import All from './AllMain/All';
 
 
 function App() {
@@ -11,12 +10,9 @@ function App() {
 
 
 
-
      <ScrollToTopButton/>
-      <OffcanvasExample/>  
 
 <All/>
-
     </div>
   );
 }

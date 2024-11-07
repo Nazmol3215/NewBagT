@@ -1,5 +1,8 @@
 import React from 'react';
-import srhgb from '../imagesAll/lop5.jpg';
+import srhgb from '../imagesAll/c17.jpg';
+import srhgb1 from '../imagesAll/c9.jpg';
+import srhgb2 from '../imagesAll/c13.jpg';
+import srhgb3 from '../imagesAll/c11.jpg';
 
 const ProductSlider = () => {
   const products = [
@@ -12,21 +15,21 @@ const ProductSlider = () => {
     },
     {
       id: 2,
-      imgSrc: srhgb,
+      imgSrc: srhgb1,
       title: 'Motorola One Ace 2021 | 2-Day Battery',
       price: '$86.84',
       shipping: 'Get it as soon as Nov 20',
     },
     {
       id: 3,
-      imgSrc: srhgb,
+      imgSrc: srhgb2,
       title: 'NUU A15 Cell Phone 4GB + 128GB',
       price: '$119.99',
       shipping: 'Get it as soon as Nov 18',
     },
     {
       id: 4,
-      imgSrc: srhgb,
+      imgSrc: srhgb3,
       title: 'Nokia C210 | T-Mobile, AT&T, Cricket',
       price: '$109.99',
       shipping: 'Get it as soon as Nov 18',
