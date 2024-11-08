@@ -58,13 +58,13 @@ const ProductPage = () => {
           </div>
 
           {/* Capacity Options */}
-          <div className="mb-4">
+          {/* <div className="mb-4">
             <h5>Capacity:</h5>
             <Button variant="outline-secondary" className="me-2 mb-2">8GB RAM | 128GB SSD</Button>
             <Button variant="outline-secondary" className="me-2 mb-2">16GB RAM | 512GB SSD</Button>
             <Button variant="outline-primary" className="me-2 mb-2">32GB RAM | 1TB SSD</Button>
             <Button variant="outline-secondary" className="me-2 mb-2">20GB RAM | 512GB SSD</Button>
-          </div>
+          </div> */}
 
           {/* Quantity and Actions */}
           <Row className="align-items-center mb-3">

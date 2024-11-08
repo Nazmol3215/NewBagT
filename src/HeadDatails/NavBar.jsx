@@ -1,8 +1,7 @@
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 // import Container from "react-bootstrap/Container";
 // import Form from "react-bootstrap/Form";
 // import Navbar from "react-bootstrap/Navbar";
-// import Offcanvas from "react-bootstrap/Offcanvas";
 // import React from "react";
 // import { Button } from "react-bootstrap";
 // import fdhcvr from "../imagesAll/_opsz24 (1).png";
@@ -43,19 +42,19 @@ function OffcanvasExample() {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                  <Nav.Link href="#action1">Home</Nav.Link>
-                  <Nav.Link href="#action2">Link</Nav.Link>
+                  <Nav.Link>
+                     <Link to="/OrderComponent"> About</Link></Nav.Link>
+                  <Nav.Link>
+                  <Link to="/OrderComponent"> About</Link></Nav.Link>
                   <NavDropdown
-                    title="Dropdown"
+                    title="All Products "
                     id={`offcanvasNavbarDropdown-expand-${expand}`}
                   >
-                    <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-                    <NavDropdown.Item href="#action4">
-                      Another action
-                    </NavDropdown.Item>
+                    <NavDropdown.Item >New Chair</NavDropdown.Item>
+                    <NavDropdown.Item>Office Chair</NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action5">
-                      Something else here
+                    <NavDropdown.Item >
+                      New Callection
                     </NavDropdown.Item>
                   </NavDropdown>
                 </Nav>

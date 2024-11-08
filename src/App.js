@@ -1,18 +1,16 @@
-import './App.css';
-import React from 'react';
-import ScrollToTopButton from './ScrollToTop';
-import All from './AllMain/All';
-
+import "./App.css";
+import React from "react";
+import ScrollToTopButton from "./ScrollToTop";
+import All from "./AllMain/All";
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
+      <ScrollToTopButton />
+      <All />
+<Footer/>
 
-
-
-     <ScrollToTopButton/>
-
-<All/>
     </div>
   );
 }

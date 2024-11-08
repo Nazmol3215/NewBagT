@@ -17,7 +17,7 @@ export default function MobaileDetails() {
       <div className="row">
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="SAMSUNG Galaxy S24 Ultra Cell Phone, 256GB AI Smartphone, Unlocked Android, 200MP, 100x Zoom Cameras, Long Battery Life, S Pen, US Version, 2024, Titanium Black...."
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়...."
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd123}
@@ -25,7 +25,7 @@ export default function MobaileDetails() {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="SAMSUNG Galaxy S24 Ultra 5G S9280 Physical Dual SIM 512GB 12GB RAM AI Smartphone, Factory Unlocked, Global"
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়"
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd1122}
@@ -33,7 +33,7 @@ export default function MobaileDetails() {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="Samsung Galaxy S21 5G, US version, 256GB, Phantom Gray - Unlocked (Renewed)"
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়"
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd1231}
@@ -41,7 +41,7 @@ export default function MobaileDetails() {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="Samsung Galaxy Z Flip3 (5G) 128GB Unlocked - Phantom Black (Renewed)"
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়"
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd1231}
@@ -49,7 +49,7 @@ export default function MobaileDetails() {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="Samsung Galaxy Note 10+, 256GB, Aura Glow Silver - Fully Unlocked (Renewed)"
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়"
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd1}
@@ -57,7 +57,7 @@ export default function MobaileDetails() {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
           <ProductCardFive
-            titleText="Apple iPhone XR, Fully Unlocked, 64 GB - Black (Renewed)"
+            titleText="চেয়ার আমাদের দৈনন্দিন জীবনে একটি অপরিহার্য আসবাবপত্র। এটি বসার জন্য বিশেষভাবে তৈরি করা হয়, যাতে আরামদায়ক ও সঠিক সাপোর্ট পাওয়া যায়। বিভিন্ন ধরনের চেয়ার তৈরি হয়, যেমন অফিস চেয়ার, ডাইনিং চেয়ার, আরাম চেয়ার ইত্যাদি। চেয়ার সাধারণত কাঠ, লোহা, প্লাস্টিক, বা চামড়া দিয়ে তৈরি করা হয়। এটি ঘরে, অফিসে, শিক্ষাপ্রতিষ্ঠানে এবং বিভিন্ন স্থানে ব্যবহৃত হয়"
             Taka="$626.84"
             Review="1.9K+ bought in past month"
             img={dhdffrhd}
