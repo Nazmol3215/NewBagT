@@ -12,7 +12,6 @@ export default function M() {
 <LAstOption/>
 <MobaileDetails/>
 <ProductSlider/>
-
     </div>
   )
 }

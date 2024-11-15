@@ -1,9 +1,9 @@
 import React from 'react';
-import fdnvdseg from '../imagesAll/liop1.jpg';
-import fdnvdseg1 from '../imagesAll/mob acca6.jpg';
-import fdnvdseg2 from '../imagesAll/momail2.jpg';
-import fdnvdseg3 from '../imagesAll/mob acca11.jpg';
-import fdnvdseg4 from '../imagesAll/mob acca6.jpg';
+import fdnvdseg from '../imagesAll/c3.jpg';
+import fdnvdseg1 from '../imagesAll/c13.jpg';
+import fdnvdseg2 from '../imagesAll/c17.jpg';
+import fdnvdseg3 from '../imagesAll/c19.jpg';
+import fdnvdseg4 from '../imagesAll/c.jpg';
 import { useNavigate } from 'react-router-dom';
 
 
