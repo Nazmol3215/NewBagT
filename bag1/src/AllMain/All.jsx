@@ -5,7 +5,7 @@ import OrderComponent from '../ChatGPTtest/TeastOne';
 import MobaileDetails from '../MobailesDetail/MobaileDetails';
 import M from '../Main/M';
 import OffcanvasExample from '../HeadDatails/NavBar';
-import ProductSliderTwo from '../ChatGPTtest/Bigslider';
+// import ProductSliderTwo from '../ChatGPTtest/Bigslider';
 
 export default function All() {
   return (
@@ -15,7 +15,7 @@ export default function All() {
 
       <BrowserRouter>
       <OffcanvasExample/>
-      <ProductSliderTwo/>
+      {/* <ProductSliderTwo/> */}
         <Routes>
 
           <Route path="/" element={<M/>} />
